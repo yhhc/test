@@ -1,3 +1,5 @@
+# Data aggregation by region
+
 # Setting the working directory
 setwd("C:/work/R/examples")
 
